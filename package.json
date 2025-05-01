@@ -1,3 +1,5 @@
+
+
 {
   "name": "kokolok-app",
   "version": "1.0.0",
@@ -12,6 +14,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
